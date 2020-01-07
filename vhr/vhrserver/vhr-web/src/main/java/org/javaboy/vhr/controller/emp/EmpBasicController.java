@@ -25,7 +25,7 @@ import java.util.List;
  * @时间 2019-10-29 7:41
  */
 @RestController
-@RequestMapping("/employee/basic")
+@RequestMapping("/nations")
 public class EmpBasicController {
     @Autowired
     EmployeeService employeeService;
